@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8386232f9e5448446981fb2cdcc52d05
+timeCreated: 1517172773
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Barking Cat DEMO
+  fontNames:
+  - Barking Cat DEMO
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

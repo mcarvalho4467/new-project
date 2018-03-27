@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1bd8cc1343be9a0478986d91faaa90dc
+timeCreated: 1517180591
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sugarpunch DEMO
+  fontNames:
+  - Sugarpunch DEMO
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
